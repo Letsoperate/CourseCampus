@@ -69,3 +69,4 @@ We could whip up:
 ---
 
 Ready for me to generate a logo, or should we sketch out a demo GIF first? Either way, you’re positioning this project like a pro. Let’s make it portfolio unforgettable.
+# Badge Test
